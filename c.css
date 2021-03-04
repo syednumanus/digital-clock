@@ -1,0 +1,33 @@
+body{
+    background-color: silver;
+}
+h1
+{
+    display: flex;
+    margin: 50px 350px;
+    font-size: 10vw 10vh;
+    box-shadow: blanchedalmonds;
+    padding: 25px 80px;
+    background-color: blue;
+    border-radius: 15px;
+    border-style: solid;
+  border-width: 5px;
+  align-items: center;
+    justify-content: center;
+  text-align: center;
+}
+#tc
+{
+    display: flex;
+    margin: 50px 100px;
+    padding: 25px ;
+    display: block;
+    border:solid 10px blue;
+    background-color: black;
+    border-radius: 15px;
+    font-size: 30px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
